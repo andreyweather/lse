@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
  spec.name         = "lse"
 
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
 
   spec.summary      = "library for connecting IOS applications to the EnKod server"
 
